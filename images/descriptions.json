@@ -1,13 +1,13 @@
 {
-    "home/1-home-1-หน้าเลือกหมวดหมู่.png": {
+    "Home/1-Home-1-หน้าเลือกหมวดหมู่.png": {
         "th": "หน้าเลือกหมวดหมู่สำหรับจะทำรายการของสมาชิกจุดจอดรถแบบ ส่วนข้างบน",
         "en": "Page selection category for member transactions"
     },
-    "home/2-home-2-หน้ารายละเอียด.png": {
+    "Home/2-Home-2-หน้ารายละเอียด.png": {
         "th": "หน้าเลือกหมวดหมู่สำหรับจะทำรายการของสมาชิกจุดจอดรถแบบ ส่วนข้างล่าง",
         "en": "Page selection category for member transactions bottom section"
     },
-    "home/3-home-slide-bar เลือกหมวดหมู่แบบ slide bar.png": {
+    "Home/3-Home-slide-bar เลือกหมวดหมู่แบบ slide bar.png": {
         "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกจุดจอดรถแบบ Slide bar",
         "en": "Page selection category for member transactions slide bar"
     },
