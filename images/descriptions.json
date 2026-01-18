@@ -1,14 +1,38 @@
 {
-    "Home/1-Home-1-หน้าเลือกหมวดหมู่.png": {
+    "home/1-home-1-หน้าเลือกหมวดหมู่.png": {
         "th": "หน้าเลือกหมวดหมู่สำหรับจะทำรายการของสมาชิกจุดจอดรถแบบ ส่วนข้างบน",
         "en": "Page selection category for member transactions"
     },
-    "Home/2-Home-2-หน้ารายละเอียด.png": {
+    "home/2-home-2-หน้ารายละเอียด.png": {
         "th": "หน้าเลือกหมวดหมู่สำหรับจะทำรายการของสมาชิกจุดจอดรถแบบ ส่วนข้างล่าง",
         "en": "Page selection category for member transactions bottom section"
     },
-    "Home/3-Home-slide-bar เลือกหมวดหมู่แบบ slide bar.png": {
+    "home/3-home-slide-bar เลือกหมวดหมู่แบบ slide bar.png": {
         "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกจุดจอดรถแบบ Slide bar",
         "en": "Page selection category for member transactions slide bar"
+    },
+    "Ev charger/1-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า.png": {
+        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า",
+        "en": "Page showing details of EV charging stations"
+    },
+    "Ev charger/2-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีแผนที่.png": {
+        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมแผนที่",
+        "en": "Page showing details of EV charging stations with map"
+    },
+    "Ev charger/3-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิว.png": {
+        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิว",
+        "en": "Page showing details of EV charging stations with reviews"
+    },
+    "Ev charger/4-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิวและแผนที่.png": {
+        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิวและแผนที่",
+        "en": "Page showing details of EV charging stations with reviews and map"
+    },
+    "Ev charger/5-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิวและแผนที่และโปรโมชั่น.png": {
+        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิว แผนที่ และโปรโมชั่น",
+        "en": "Page showing details of EV charging stations with reviews, map, and promotions"
+    },
+    "Ev charger/6-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิวและแผนที่และโปรโมชั่นและส่วนลด.png": {
+        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิว แผนที่ โปรโมชั่น และส่วนลด",
+        "en": "Page showing details of EV charging stations with reviews, map, promotions, and discounts"
     }
 }
