@@ -11,28 +11,64 @@
         "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกจุดจอดรถแบบ Slide bar",
         "en": "Page selection category for member transactions slide bar"
     },
-    "Ev charger/1-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า.png": {
-        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า",
-        "en": "Page showing details of EV charging stations"
+    "Ev charger/1-ev-charger หน้าแสดงรถ EV ที่กำลังจอดอยู่.png": {
+        "th": "หน้าแสดงรายละเอียดรถไฟฟ้าที่เข้าจอดชาร์จอยู่มีการแสดงราคาและสามารถกดกรองรถที่กำลังชาร์จหรือจอดอยู่เฉยๆได้",
+        "en": "Page showing details of EVs currently parked with price display and filter options"
     },
-    "Ev charger/2-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีแผนที่.png": {
-        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมแผนที่",
-        "en": "Page showing details of EV charging stations with map"
+    "Ev charger/2-ev-charger หน้าประวัติการชาร์จ.png": {
+        "th": "หน้าแสดงรายละเอียดประวัติการชาร์จรถไฟฟ้าที่เคยเข้าจอดชาร์จ",
+        "en": "Page showing details of EV charging history"
     },
-    "Ev charger/3-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิว.png": {
-        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิว",
-        "en": "Page showing details of EV charging stations with reviews"
+    "Ev charger/3-ev-charger หน้าแสดงยอดค้างชำระถ้าชาร์จเกินกำหนด.png": {
+        "th": "หน้าแสดงรายละเอียดยอดการชาร์จรถไฟฟ้าที่ชาร์จเกินกำหนด สามารถกดดูรายละเอียดเพื่อแสดงรายละเอียดได้",
+        "en": "Page showing details of outstanding EV charging payments with option to view more details"
     },
-    "Ev charger/4-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิวและแผนที่.png": {
-        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิวและแผนที่",
-        "en": "Page showing details of EV charging stations with reviews and map"
+    "Ev charger/4-ev-charger-popup สำหรับแสดงข้อมูลยอดที่ต้องชำระเงินที่ค้าง.png": {
+        "th": "หน้าแสดงข้อมูลรายละเอียดยอดที่ต้องชำระเงินที่ค้างอยู่ ของรายการชาร์จรถไฟฟ้าอันนั้นพร้อมปุ่มสำหรับชำระเงิน",
+        "en": "Page showing details of outstanding payment for EV charging with payment button"
     },
-    "Ev charger/5-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิวและแผนที่และโปรโมชั่น.png": {
-        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิว แผนที่ และโปรโมชั่น",
-        "en": "Page showing details of EV charging stations with reviews, map, and promotions"
+    "Ev charger/5-ev-charger-detail หน้าสำหรับแสดงข้อมูล EV.png": {
+        "th": "หน้าสำหรับแสดงรายละเอียดรถไฟฟ้าชาร์จอยู่ เช่น เวลาเข้าจอด รหัสการชาร์จ จำนวนเงิน จำนวนกำลังไฟฟ้า พร้อมปุ่มสำหรับสั่ง ชาร์จและปิด EV (ส่วนบน)",
+        "en": "Page showing details of EV charging stations with reviews, map, promotions, and discounts (top section)"
     },
-    "Ev charger/6-Ev charger-หน้ารายละเอียดสถานีชาร์จรถไฟฟ้า แบบมีรีวิวและแผนที่และโปรโมชั่นและส่วนลด.png": {
-        "th": "หน้าแสดงรายละเอียดสถานีชาร์จรถไฟฟ้า พร้อมรีวิว แผนที่ โปรโมชั่น และส่วนลด",
-        "en": "Page showing details of EV charging stations with reviews, map, promotions, and discounts"
+    "Ev charger/6-ev-charger-detail-2 ปุ่มสำหรับสั่ง ชาร์จและปิด EV.png": {
+        "th": "หน้าสำหรับแสดงรายละเอียดรถไฟฟ้าชาร์จอยู่ เช่น เวลาเข้าจอด รหัสการชาร์จ จำนวนเงิน จำนวนกำลังไฟฟ้า พร้อมปุ่มสำหรับสั่ง ชาร์จและปิด EV (ส่วนล่าง)",
+        "en": "Page showing details of EV charging stations with reviews, map, promotions, and discounts (bottom section)"
+    },
+    "Active member card/1-Active-member-card แสดงรายการบัตรสมาชิก.png": {
+        "th": "หน้าแสดงรายการบัตรสมาชิกที่มีอยู่ และสามารถ เปิด-ปิด การใช้งานได้ พร้อมมีปุ่มสำหรับเพิ่มบัตรสมาชิกใหม่แบบใส่โค้ตด้วย",
+        "en": "Page showing existing member cards with options to activate/deactivate and add new member card via code"
+    },
+    "Active member card/2-Active-member-card-popup กรอกรหัสบัตรสำหรับเปิดใช้งานแบบโปรโมชั่น.png": {
+        "th": "หน้าแสดงป๊อปอัพสำหรับกรอกรหัสบัตรเพื่อเปิดใช้งานบัตรสมาชิกใหม่แบบโปรโมชั่น",
+        "en": "Popup page for entering code to activate new promotional member card"
+    },
+    "Check parking/1-Check-parking หน้าแสดงข้อมูลรถที่จอดอยู่ในตอนนี้.png": {
+        "th": "หน้าแสดงข้อมูลรถที่กำลังจอดอยู่ในจุดจอดรถในตอนนี้ พร้อมรายละเอียดต่างๆ เช่น เวลาเข้าจอด จำนวนเงินที่ต้องชำระ พร้อมปุ่มสำหรับชำระเงิน",
+        "en": "Page showing details of currently parked vehicles with entry time, amount due, and payment button"
+    },
+    "Discount request/1-Discount-request-1 หน้าแสดงการขอส่วนลดถ้ามีการซื้อครบตามกำหนด.png": {
+        "th": "หน้าสำหรับการขอส่วนลดและค่าจอดรถเมื่อมีการซื้อสินค้าหรือทำกิจกรรมครบตามเงื่อนไข (แบบยืนยันการขอส่วนลด ส่วนบน) ",
+        "en": "Page for requesting parking discount when purchasing products or completing activities according to conditions (with confirmation top section)"
+    },
+    "Discount request/2-Discount-request-2 หน้าแสดงการขอส่วนลดถ้ามีการซื้อครบตามกำหนด.png": {
+        "th": "หน้าสำหรับการขอส่วนลดและค่าจอดรถเมื่อมีการซื้อสินค้าหรือทำกิจกรรมครบตามเงื่อนไข (แบบยืนยันการขอส่วนลด  ส่วนล่าง)",
+        "en": "Page for requesting parking discount when purchasing products or completing activities according to conditions (with confirmation bottom section)"
+    },
+    "History/1-History-parking-1  หน้าแสดงประวัติการเข้าจอด.png": {
+        "th": "หน้าแสดงประวัติการเข้าจอดรถของสมาชิกสมารถกดเลือกวันที่ในช่วงเวลาที่ต้องการดูได้ (แต่ห้ามเกิน 4 เดือน)",
+        "en": "Page showing member's parking history with date selection within a 4-month period"
+    },
+    "History/2-History-parking-1 หน้าแสดงประวัติการเข้าจอดแบบขยายข้อมูล.png": {
+        "th": "หน้าแสดงประวัติการเข้าจอดรถของสมาชิกสมารถกดเลือกวันที่ในช่วงเวลาที่ต้องการดูได้ (แบบขยายข้อมูลรายละเอียดการจอดรถ)",
+        "en": "Page showing member's parking history with date selection and expanded parking details"
+    },
+    "History/3-History-payment หน้าแสดงประวัติการชำระเงิน.png": {
+        "th": "หน้าแสดงประวัติการชำระเงินค่าจอดรถของสมาชิกสมารถกดเลือกวันที่ในช่วงเวลาที่ต้องการดูได้ พร้อมการกดเลือกการขอดูใบเสร็จหรือภาษีได้ (แต่ห้ามเกิน 4 เดือน)",
+        "en": "Page showing member's payment history with date selection and options to view receipts or tax documents within a 4-month period"
+    },
+    "History/4-History-payment-popup หน้าแสดงตัวเลือกการขอ.png": {
+        "th": "หน้าแสดงการเลือกขอใบเสร็จหรือภาษีของรายการชำระเงินค่าจอดรถ",
+        "en": "Page showing options to request receipt or tax document for parking payment"
     }
 }
