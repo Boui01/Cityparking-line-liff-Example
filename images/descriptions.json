@@ -26,50 +26,50 @@
       "th": "หน้าแสดงรายละเอียดรถยนต์ไฟฟ้าที่กำลังจอดและชาร์จอยู่ พร้อมแสดงราคา และสามารถกรองรถที่กำลังชาร์จหรือจอดแต่ไม่ชาร์จได้",
       "en": "Page displaying details of currently parked EVs, including pricing and filtering options for charging or non-charging vehicles"
     },
-    "Ev charger/ev-charger หน้าประวัติการชาร์จ.png": {
-      "primary": 2,
-      "th": "หน้าแสดงประวัติการชาร์จรถยนต์ไฟฟ้า ย้อนหลังไม่เกิน 30 วัน",
-      "en": "Page displaying EV charging history within the last 30 days"
-    },
-    "Ev charger/ev-charger หน้าแสดงยอดค้างชำระถ้าชาร์จเกินกำหนด.png": {
-      "primary": 3,
-      "th": "หน้าแสดงรายละเอียดค่าใช้จ่ายที่ค้างชำระ กรณีชาร์จเกินเวลาที่กำหนด สามารถกดดูรายละเอียดเพิ่มเติมได้",
-      "en": "Page displaying details of overdue EV charging charges with expandable details"
-    },
-    "Ev charger/ev-charger-popup สำหรับแสดงข้อมูลยอดที่ต้องชำระเงินที่ค้าง.png": {
-      "primary": 4,
-      "th": "หน้าแสดงรายละเอียดรายการค้างชำระของการชาร์จรถยนต์ไฟฟ้า พร้อมปุ่มสำหรับชำระเงิน",
-      "en": "Page displaying outstanding EV charging payment details with a payment button"
-    },
-    "Ev charger/ev-charger-detail หน้าสำหรับแสดงข้อมูล EV.png": {
-      "primary": 5,
-      "th": "หน้าแสดงรายละเอียดการชาร์จรถยนต์ไฟฟ้า เช่น เวลาเข้าจอด รหัสการชาร์จ จำนวนเงิน และกำลังไฟฟ้า พร้อมปุ่มสั่งเริ่มและหยุดการชาร์จ (ส่วนบน)",
-      "en": "Page displaying EV charging details such as entry time, charging code, cost, and power usage, with start and stop charging controls (top section)"
-    },
-    "Ev charger/ev-charger-detail-2 ปุ่มสำหรับสั่ง ชาร์จและปิด EV.png": {
-      "primary": 6,
-      "th": "หน้าแสดงรายละเอียดการชาร์จรถยนต์ไฟฟ้า พร้อมปุ่มสั่งเริ่มและหยุดการชาร์จ (ส่วนล่าง)",
-      "en": "Page displaying EV charging details with start and stop charging controls (bottom section)"
-    },
     "Ev charger/ev-charger หน้า Popup แสดงตัวอย่าง QR Code สำหรับเพิ่มทะเบียนด้วยตัวเอง.png": {
-      "primary": 7,
+      "primary": 2,
       "th": "หน้า Popup แสดงตัวอย่าง QR Code สำหรับเพิ่มทะเบียนรถยนต์ไฟฟ้าด้วยตัวเองถ้าไม่มีข้อมูลทะเบียนขึ้นมาในรายการ EV",
       "en": "Popup page showing a sample QR code for manually adding EV vehicle registration if not listed in the EV list"
     },
     "Ev charger/ev-charger หน้าเปิดกล้องแสกน QR code เพื่อดึงข้อมูลมาแสดง.png": {
-      "primary": 8,
+      "primary": 3,
       "th": "หน้าเปิดกล้องแสกน QR code เพื่อดึงข้อมูลทะเบียนรถยนต์ไฟฟ้ามาแสดงในรายการ EV โดยใช้ library @zxing สำหรับสแกน QR code",
       "en": "Page opening camera to scan QR code to retrieve EV vehicle registration data using @zxing library"
     },
     "Ev charger/ev-charger หน้าแสดงข้อมูลสถานีที่ชาร์จ EV ตามหัวชาร์จที่ทำการแสกน QR code เข้ามา.png": {
-      "primary": 9,
+      "primary": 4,
       "th": "หน้าแสดงข้อมูลสถานีที่ชาร์จ EV ตามหัวชาร์จที่ทำการแสกน QR code เข้ามาและตัวเลือกทะเบียนที่จะทำรายการชาร์จเพิ่มเข้าไป พร้อมปุ่มบันทึกข้อมูล",
       "en": "Page displaying EV charging station information based on the scanned QR code, with options for vehicle registration to add for charging and a save button"
     },
     "Ev charger/ev-charger หน้า Popup แสกน QR code ในส่วนของแสกน QR code ไม่ถูกต้อง.png": {
-      "primary": 10,
+      "primary": 5,
       "th": "หน้า Popup แสดงข้อความแจ้งเตือนข้อมูลที่แสกนก่อนหน้า ในกรณีแสกน QR code ไม่ถูกต้อง",
       "en": "Popup page showing an alert message for incorrect QR code scanning data before the previous page"
+    },
+    "Ev charger/ev-charger-detail หน้าสำหรับแสดงข้อมูล EV.png": {
+      "primary": 6,
+      "th": "หน้าแสดงรายละเอียดการชาร์จรถยนต์ไฟฟ้า เช่น เวลาเข้าจอด รหัสการชาร์จ จำนวนเงิน และกำลังไฟฟ้า พร้อมปุ่มสั่งเริ่มและหยุดการชาร์จ (ส่วนบน)",
+      "en": "Page displaying EV charging details such as entry time, charging code, cost, and power usage, with start and stop charging controls (top section)"
+    },
+    "Ev charger/ev-charger-detail-2 ปุ่มสำหรับสั่ง ชาร์จและปิด EV.png": {
+      "primary": 7,
+      "th": "หน้าแสดงรายละเอียดการชาร์จรถยนต์ไฟฟ้า พร้อมปุ่มสั่งเริ่มและหยุดการชาร์จ (ส่วนล่าง)",
+      "en": "Page displaying EV charging details with start and stop charging controls (bottom section)"
+    },
+    "Ev charger/ev-charger หน้าแสดงยอดค้างชำระถ้าชาร์จเกินกำหนด.png": {
+      "primary": 8,
+      "th": "หน้าแสดงรายละเอียดค่าใช้จ่ายที่ค้างชำระ กรณีชาร์จเกินเวลาที่กำหนด สามารถกดดูรายละเอียดเพิ่มเติมได้",
+      "en": "Page displaying details of overdue EV charging charges with expandable details"
+    },
+    "Ev charger/ev-charger-popup สำหรับแสดงข้อมูลยอดที่ต้องชำระเงินที่ค้าง.png": {
+      "primary": 9,
+      "th": "หน้าแสดงรายละเอียดรายการค้างชำระของการชาร์จรถยนต์ไฟฟ้า พร้อมปุ่มสำหรับชำระเงิน",
+      "en": "Page displaying outstanding EV charging payment details with a payment button"
+    },
+    "Ev charger/ev-charger หน้าประวัติการชาร์จ.png": {
+      "primary": 10,
+      "th": "หน้าแสดงประวัติการชาร์จรถยนต์ไฟฟ้า ย้อนหลังไม่เกิน 30 วัน",
+      "en": "Page displaying EV charging history within the last 30 days"
     }
   },
   "ActiveMemberCard": {
