@@ -2,54 +2,74 @@
   "Home": {
     "primary": 1,
     "name": "หน้าหลัก (Home)",
-    "Home/1-Home-1-หน้าเลือกหมวดหมู่.png": {
+    "Home/Home-1-หน้าเลือกหมวดหมู่.png": {
       "primary": 1,
-      "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกจุดจอดรถ (ส่วนบน)",
+      "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกบัตรจอดรถ (ส่วนบน)",
       "en": "Category selection page for parking members (top section)"
     },
-    "Home/2-Home-2-หน้าเลือกหมวดหมู่.png": {
+    "Home/Home-2-หน้าเลือกหมวดหมู่.png": {
       "primary": 2,
-      "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกจุดจอดรถ (ส่วนล่าง)",
+      "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกบัตรจอดรถ (ส่วนล่าง)",
       "en": "Category selection page for parking members (bottom section)"
     },
-    "Home/3-Home-slide-bar เลือกหมวดหมู่แบบ slide bar.png": {
+    "Home/Home-slide-bar เลือกหมวดหมู่แบบ slide bar.png": {
       "primary": 3,
-      "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกจุดจอดรถแบบ Slide Bar",
+      "th": "หน้าเลือกหมวดหมู่สำหรับทำรายการของสมาชิกบัตรจอดรถแบบ Slide Bar",
       "en": "Category selection page for parking members with slide bar"
     }
   },
   "EvCharger": {
     "primary": 2,
     "name": "สถานีชาร์จ EV (EV Charger)",
-    "Ev charger/1-ev-charger หน้าแสดงรถ EV ที่กำลังจอดอยู่.png": {
+    "Ev charger/ev-charger หน้าแสดงรถ EV ที่กำลังจอดอยู่.png": {
       "primary": 1,
       "th": "หน้าแสดงรายละเอียดรถยนต์ไฟฟ้าที่กำลังจอดและชาร์จอยู่ พร้อมแสดงราคา และสามารถกรองรถที่กำลังชาร์จหรือจอดแต่ไม่ชาร์จได้",
       "en": "Page displaying details of currently parked EVs, including pricing and filtering options for charging or non-charging vehicles"
     },
-    "Ev charger/2-ev-charger หน้าประวัติการชาร์จ.png": {
+    "Ev charger/ev-charger หน้าประวัติการชาร์จ.png": {
       "primary": 2,
       "th": "หน้าแสดงประวัติการชาร์จรถยนต์ไฟฟ้า ย้อนหลังไม่เกิน 30 วัน",
       "en": "Page displaying EV charging history within the last 30 days"
     },
-    "Ev charger/3-ev-charger หน้าแสดงยอดค้างชำระถ้าชาร์จเกินกำหนด.png": {
+    "Ev charger/ev-charger หน้าแสดงยอดค้างชำระถ้าชาร์จเกินกำหนด.png": {
       "primary": 3,
       "th": "หน้าแสดงรายละเอียดค่าใช้จ่ายที่ค้างชำระ กรณีชาร์จเกินเวลาที่กำหนด สามารถกดดูรายละเอียดเพิ่มเติมได้",
       "en": "Page displaying details of overdue EV charging charges with expandable details"
     },
-    "Ev charger/4-ev-charger-popup สำหรับแสดงข้อมูลยอดที่ต้องชำระเงินที่ค้าง.png": {
+    "Ev charger/ev-charger-popup สำหรับแสดงข้อมูลยอดที่ต้องชำระเงินที่ค้าง.png": {
       "primary": 4,
       "th": "หน้าแสดงรายละเอียดรายการค้างชำระของการชาร์จรถยนต์ไฟฟ้า พร้อมปุ่มสำหรับชำระเงิน",
       "en": "Page displaying outstanding EV charging payment details with a payment button"
     },
-    "Ev charger/5-ev-charger-detail หน้าสำหรับแสดงข้อมูล EV.png": {
+    "Ev charger/ev-charger-detail หน้าสำหรับแสดงข้อมูล EV.png": {
       "primary": 5,
       "th": "หน้าแสดงรายละเอียดการชาร์จรถยนต์ไฟฟ้า เช่น เวลาเข้าจอด รหัสการชาร์จ จำนวนเงิน และกำลังไฟฟ้า พร้อมปุ่มสั่งเริ่มและหยุดการชาร์จ (ส่วนบน)",
       "en": "Page displaying EV charging details such as entry time, charging code, cost, and power usage, with start and stop charging controls (top section)"
     },
-    "Ev charger/6-ev-charger-detail-2 ปุ่มสำหรับสั่ง ชาร์จและปิด EV.png": {
+    "Ev charger/ev-charger-detail-2 ปุ่มสำหรับสั่ง ชาร์จและปิด EV.png": {
       "primary": 6,
       "th": "หน้าแสดงรายละเอียดการชาร์จรถยนต์ไฟฟ้า พร้อมปุ่มสั่งเริ่มและหยุดการชาร์จ (ส่วนล่าง)",
       "en": "Page displaying EV charging details with start and stop charging controls (bottom section)"
+    },
+    "Ev charger/ev-charger หน้า Popup แสดงตัวอย่าง QR Code สำหรับเพิ่มทะเบียนด้วยตัวเอง.png": {
+      "primary": 7,
+      "th": "หน้า Popup แสดงตัวอย่าง QR Code สำหรับเพิ่มทะเบียนรถยนต์ไฟฟ้าด้วยตัวเองถ้าไม่มีข้อมูลทะเบียนขึ้นมาในรายการ EV",
+      "en": "Popup page showing a sample QR code for manually adding EV vehicle registration if not listed in the EV list"
+    },
+    "Ev charger/ev-charger หน้าเปิดกล้องแสกน QR code เพื่อดึงข้อมูลมาแสดง.png": {
+      "primary": 8,
+      "th": "หน้าเปิดกล้องแสกน QR code เพื่อดึงข้อมูลทะเบียนรถยนต์ไฟฟ้ามาแสดงในรายการ EV โดยใช้ library @zxing สำหรับสแกน QR code",
+      "en": "Page opening camera to scan QR code to retrieve EV vehicle registration data using @zxing library"
+    },
+    "Ev charger/ev-charger หน้าแสดงข้อมูลสถานีที่ชาร์จ EV ตามหัวชาร์จที่ทำการแสกน QR code เข้ามา.png": {
+      "primary": 9,
+      "th": "หน้าแสดงข้อมูลสถานีที่ชาร์จ EV ตามหัวชาร์จที่ทำการแสกน QR code เข้ามาและตัวเลือกทะเบียนที่จะทำรายการชาร์จเพิ่มเข้าไป พร้อมปุ่มบันทึกข้อมูล",
+      "en": "Page displaying EV charging station information based on the scanned QR code, with options for vehicle registration to add for charging and a save button"
+    },
+    "Ev charger/ev-charger หน้า Popup แสกน QR code ในส่วนของแสกน QR code ไม่ถูกต้อง.png": {
+      "primary": 10,
+      "th": "หน้า Popup แสดงข้อความแจ้งเตือนข้อมูลที่แสกนก่อนหน้า ในกรณีแสกน QR code ไม่ถูกต้อง",
+      "en": "Popup page showing an alert message for incorrect QR code scanning data before the previous page"
     }
   },
   "ActiveMemberCard": {
@@ -146,7 +166,7 @@
     "name": "ศูนย์จอดรถ (Parking Center)",
     "Parking center/1-parking-center หน้าแสดงจุดสำหรับจอดรถและจำนวนที่ว่างอยู่.png": {
       "primary": 1,
-      "th": "หน้าแสดงจุดจอดรถของ Cityparking ทั้งหมดหน้านี้จะมีฟังก์ชั่นการกรองระยะจุดปัจจุบันของผู้ค้นหากับจุดใกล้เคียงตามระยะที่ผู้ค้นหากำหนด พร้อมกดแสดงเฉพาะที่จอดที่มี EV charger และยังมีแสดงจํานวนที่ว่างอยู่พร้อมกรองสีตามจำนวนที่จอดว่างอยู่",
+      "th": "หน้าแสดงบัตรจอดรถของ Cityparking ทั้งหมดหน้านี้จะมีฟังก์ชั่นการกรองระยะจุดปัจจุบันของผู้ค้นหากับจุดใกล้เคียงตามระยะที่ผู้ค้นหากำหนด พร้อมกดแสดงเฉพาะที่จอดที่มี EV charger และยังมีแสดงจํานวนที่ว่างอยู่พร้อมกรองสีตามจำนวนที่จอดว่างอยู่",
       "en": "Page showing all parking centers of Cityparking with filtering options based on current location, showing EV charging stations, and showing the number of available spaces with color filtering"
     },
     "Parking center/2-parking-center แสดงคำแนะนำสีแต่ล่ะประเภทคืออะไร.png": {
@@ -159,19 +179,19 @@
       "th": "หน้าแสดงตัวเลือกจำแนกตามสี สามารถกดเพื่อกรองจุดจอดตามสีที่กดไว้",
       "en": "Page showing color options to filter parking centers based on selected color"
     },
-    "Parking center/4-parking-center หน้าแสดงจุดจอดรถตามระยะที่กำหนดเอง.png": {
+    "Parking center/4-parking-center หน้าแสดงบัตรจอดรถตามระยะที่กำหนดเอง.png": {
       "primary": 4,
-      "th": "หน้าแสดงจุดจอดรถตามระยะที่กำหนดเอง สำหรับกรองตำแหน่งใกล้เคียงตามระยะที่ผู้ค้นหากำหนดเอง",
+      "th": "หน้าแสดงบัตรจอดรถตามระยะที่กำหนดเอง สำหรับกรองตำแหน่งใกล้เคียงตามระยะที่ผู้ค้นหากำหนดเอง",
       "en": "Page showing parking centers based on custom distance with filtering options"
     },
-    "Parking center/5-parking-center-search หน้าแสดงจุดจอดรถแบบกดค้นหา.png": {
+    "Parking center/5-parking-center-search หน้าแสดงบัตรจอดรถแบบกดค้นหา.png": {
       "primary": 5,
-      "th": "หน้าแสดงจุดจอดรถแบบกดค้นหา มีข้อมูลจุดจอดรถแบบกำหนดไว้เมื่อกดจะเลื่อนแผนที่ไปยังจุดจอดรถนั้นๆ",
+      "th": "หน้าแสดงบัตรจอดรถแบบกดค้นหา มีข้อมูลบัตรจอดรถแบบกำหนดไว้เมื่อกดจะเลื่อนแผนที่ไปยังบัตรจอดรถนั้นๆ",
       "en": "Page showing parking centers based on custom distance"
     },
     "Parking center/6-parking-center-popup แสดงรายละเอียดที่จอดรถ.png": {
       "primary": 6,
-      "th": "หน้าแสดงรายละเอียดของจุดจอดรถ สำหรับดูรายละเอียดเพิ่มเติมของจุดจอดรถ เช่น จำนวนที่จอดรถแต่ล่ะตึก จำนวนที่จอดรถแต่ล่ะประเภท รูปภาพที่จอดรถ พร้อมปุ่มกดเพื่อ ดูรายละเอียด เพื่อขยายข้อมูลในแต่ล่ะตึกได้",
+      "th": "หน้าแสดงรายละเอียดของบัตรจอดรถ สำหรับดูรายละเอียดเพิ่มเติมของบัตรจอดรถ เช่น จำนวนที่จอดรถแต่ล่ะตึก จำนวนที่จอดรถแต่ล่ะประเภท รูปภาพที่จอดรถ พร้อมปุ่มกดเพื่อ ดูรายละเอียด เพื่อขยายข้อมูลในแต่ล่ะตึกได้",
       "en": "Page showing details of a parking center, including type and available spaces, images, and a button to view more details"
     },
     "Parking center/7-parking-center-popup แสดงคำแนะนำสำหรับวิธีการดูต่างๆ.png": {
@@ -238,27 +258,27 @@
     "name": "สมัครสมาชิก (Register)",
     "Register member/1-Option-register-renew หน้าแสดงเลือกทำรายการ.png": {
       "primary": 1,
-      "th": "หน้าแสดงตัวเลือกสำหรับทำรายการสมัครสมาชิกจุดจอดรถใหม่หรือต่ออายุจุดจอดรถ",
+      "th": "หน้าแสดงตัวเลือกสำหรับทำรายการสมัครสมาชิกบัตรจอดรถใหม่หรือต่ออายุบัตรจอดรถ",
       "en": "Page showing options for registering or renewing a parking membership"
     },
-    "Register member/2-Register-parking แสดงเลือกสถานที่จอดที่จะสมัครจุดจอดรถ.png": {
+    "Register member/2-Register-parking แสดงเลือกสถานที่จอดที่จะสมัครบัตรจอดรถ.png": {
       "primary": 2,
-      "th": "หน้าแสดงตัวเลือกสถานที่จอดที่จะสมัครเป็นสมาชิกจุดจอดรถมีแสดงรายละเอียดสถานที่ตั้งและปุ่มสำหรับดำเนินการ พร้อมมีฟังก์ชั่นค้นหาสถานที่จอดรถ",
+      "th": "หน้าแสดงตัวเลือกสถานที่จอดที่จะสมัครเป็นสมาชิกบัตรจอดรถมีแสดงรายละเอียดสถานที่ตั้งและปุ่มสำหรับดำเนินการ พร้อมมีฟังก์ชั่นค้นหาสถานที่จอดรถ",
       "en": "Page showing options for registering a parking location, with details of the location and buttons for action, and a function for searching for parking locations"
     },
-    "Register member/3-Register-parking-detiail-1 หน้ากรอกข้อมูลสำหรับสมัครจุดจอดรถ.png": {
+    "Register member/3-Register-parking-detiail-1 หน้ากรอกข้อมูลสำหรับสมัครบัตรจอดรถ.png": {
       "primary": 3,
-      "th": "หน้าแสดงกรอกข้อมูลสำหรับสมัครสมาชิกจุดจอดรถ ของสถานที่นั้นๆ มีให้เลือกแพ็คเก็จที่ต้องการชำระ และประเภทรถ(ส่วนบน)",
+      "th": "หน้าแสดงกรอกข้อมูลสำหรับสมัครสมาชิกบัตรจอดรถ ของสถานที่นั้นๆ มีให้เลือกแพ็คเก็จที่ต้องการชำระ และประเภทรถ(ส่วนบน)",
       "en": "Page showing input fields for registering a parking membership at a specific location, with options for selecting the payment package and vehicle type (top section)"
     },
-    "Register member/4-Register-parking-detiail-2 หน้าแสดงรายละเอียดสมัครจุดจอดรถ.png": {
+    "Register member/4-Register-parking-detiail-2 หน้าแสดงรายละเอียดสมัครบัตรจอดรถ.png": {
       "primary": 4,
-      "th": "หน้ากรอกข้อมูลสำหรับสมัครสมาชิกจุดจอดรถ ของสถานที่นั้นๆ มีให้เลือกทะเบียนรถของสมาชิก ถ้ามี และปุ่มขอใบกำกับภาษี พร้อมปุ่มสำหรับดำเนินการ(ส่วนล่าง)",
+      "th": "หน้ากรอกข้อมูลสำหรับสมัครสมาชิกบัตรจอดรถ ของสถานที่นั้นๆ มีให้เลือกทะเบียนรถของสมาชิก ถ้ามี และปุ่มขอใบกำกับภาษี พร้อมปุ่มสำหรับดำเนินการ(ส่วนล่าง)",
       "en": "Page input fields for registering a parking membership at a specific location, with options for selecting the member's vehicle registration if applicable, and action buttons (bottom section)"
     },
     "Register member/5-Register-parking-detiail-3 หน้ากรอกข้อมูลสำหรับออกภาษี.png": {
       "primary": 5,
-      "th": "หน้ากรอกข้อมูลสำหรับออกภาษี สมาชิกจุดจอดรถ มีกรอกที่อยู่และเลขภาษีต่างๆ",
+      "th": "หน้ากรอกข้อมูลสำหรับออกภาษี สมาชิกบัตรจอดรถ มีกรอกที่อยู่และเลขภาษีต่างๆ",
       "en": "Page input fields for registering a parking membership with tax information, including address and other tax information"
     }
   },
@@ -270,14 +290,14 @@
       "th": "หน้าแสดงตัวเลือกสำหรับการขอภาษีก่อนทำรายการต่ออายุ (สามารถเปลี่ยนข้างในได้อีกที)",
       "en": "Page showing options for requesting tax before renewing (can be changed later)"
     },
-    "Renew/2-Renew-1 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกจุดจอดรถ.png": {
+    "Renew/2-Renew-1 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ.png": {
       "primary": 2,
-      "th": "หน้าแสดงข้อมูลสำหรับต่ออายุสมาชิกจุดจอดรถ จะทำการดึงข้อมูลจากสมาชิกไลน์คนนั้นจากสถานที่นั้นมาใส่ในช่องกรอกอัตโนมัติ และสามารถแก้ไขได้บางส่วน จะเป็นหน้าเดียวกันกับตอนสมัครสมาชิกจุดจอดรถ (ส่วนบน)",
+      "th": "หน้าแสดงข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ จะทำการดึงข้อมูลจากสมาชิกไลน์คนนั้นจากสถานที่นั้นมาใส่ในช่องกรอกอัตโนมัติ และสามารถแก้ไขได้บางส่วน จะเป็นหน้าเดียวกันกับตอนสมัครสมาชิกบัตรจอดรถ (ส่วนบน)",
       "en": "Page showing information for renewing a parking membership, with data automatically pulled from the member's line from the same location, and it will be the same page as the registration page (top)"
     },
-    "Renew/3-Renew-2 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกจุดจอดรถ.png": {
+    "Renew/3-Renew-2 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ.png": {
       "primary": 3,
-      "th": "หน้าแสดงข้อมูลสำหรับต่ออายุสมาชิกจุดจอดรถ จะทำการดึงข้อมูลจากสมาชิกไลน์คนนั้นจากสถานที่นั้นมาใส่ในช่องกรอกอัตโนมัติ และสามารถแก้ไขได้บางส่วน จะเป็นหน้าเดียวกันกับตอนสมัครสมาชิกจุดจอดรถ (ส่วนล่าง)",
+      "th": "หน้าแสดงข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ จะทำการดึงข้อมูลจากสมาชิกไลน์คนนั้นจากสถานที่นั้นมาใส่ในช่องกรอกอัตโนมัติ และสามารถแก้ไขได้บางส่วน จะเป็นหน้าเดียวกันกับตอนสมัครสมาชิกบัตรจอดรถ (ส่วนล่าง)",
       "en": "Page showing information for renewing a parking membership, with data automatically pulled from the member's line from the same location, and it will be the same page as the registration page (bottom)"
     }
   },
