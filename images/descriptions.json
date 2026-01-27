@@ -72,97 +72,8 @@
       "en": "Page displaying EV charging history within the last 30 days"
     }
   },
-  "ActiveMemberCard": {
-    "primary": 3,
-    "name": "บัตรสมาชิก (Member Card)",
-    "Active member card/1-Active-member-card แสดงรายการบัตรสมาชิก.png": {
-      "primary": 1,
-      "th": "หน้าแสดงรายการบัตรสมาชิกที่มีอยู่ สามารถเปิดหรือปิดการใช้งานบัตรได้ พร้อมปุ่มเพิ่มบัตรสมาชิกใหม่ด้วยรหัส",
-      "en": "Page displaying a list of member cards with activation and deactivation options, and a button to add a new card using a code"
-    },
-    "Active member card/2-Active-member-card-popup กรอกรหัสบัตรสำหรับเปิดใช้งานแบบโปรโมชั่น.png": {
-      "primary": 2,
-      "th": "ป๊อปอัปสำหรับกรอกรหัสบัตร เพื่อเปิดใช้งานบัตรสมาชิกแบบโปรโมชั่น",
-      "en": "Popup for entering a code to activate a new promotional member card"
-    }
-  },
-  "CheckParking": {
-    "primary": 4,
-    "name": "ตรวจสอบการจอด (Check Parking)",
-    "Check parking/1-Check-parking หน้าแสดงข้อมูลรถที่จอดอยู่ในตอนนี้.png": {
-      "primary": 1,
-      "th": "หน้าแสดงข้อมูลรถที่กำลังจอดอยู่ในปัจจุบัน พร้อมรายละเอียด เช่น เวลาเข้าจอด ยอดเงินที่ต้องชำระ และปุ่มชำระเงิน",
-      "en": "Page displaying details of currently parked vehicles, including entry time, amount due, and a payment button"
-    }
-  },
-  "DiscountRequest": {
-    "primary": 5,
-    "name": "ขอส่วนลด (Discount Request)",
-    "Discount request/1-Discount-request-1 หน้าแสดงการขอส่วนลดถ้ามีการซื้อครบตามกำหนด.png": {
-      "primary": 1,
-      "th": "หน้าสำหรับการขอส่วนลดและค่าจอดรถเมื่อมีการซื้อสินค้าหรือทำกิจกรรมครบตามเงื่อนไข (แบบยืนยันการขอส่วนลด ส่วนบน)",
-      "en": "Page for requesting parking discount when purchasing products or completing activities according to conditions (with confirmation top section)"
-    },
-    "Discount request/2-Discount-request-2 หน้าแสดงการขอส่วนลดถ้ามีการซื้อครบตามกำหนด.png": {
-      "primary": 2,
-      "th": "หน้าสำหรับการขอส่วนลดและค่าจอดรถเมื่อมีการซื้อสินค้าหรือทำกิจกรรมครบตามเงื่อนไข (แบบยืนยันการขอส่วนลด ส่วนล่าง)",
-      "en": "Page for requesting parking discount when purchasing products or completing activities according to conditions (with confirmation bottom section)"
-    }
-  },
-  "History": {
-    "primary": 6,
-    "name": "ประวัติ (History)",
-    "History/1-History-parking-1  หน้าแสดงประวัติการเข้าจอด.png": {
-      "primary": 1,
-      "th": "หน้าแสดงประวัติการเข้าจอดรถของสมาชิก สามารถเลือกช่วงวันที่ต้องการดูได้ (ไม่เกิน 4 เดือน)",
-      "en": "Page displaying member parking history with date selection up to 4 months"
-    },
-    "History/2-History-parking-1 หน้าแสดงประวัติการเข้าจอดแบบขยายข้อมูล.png": {
-      "primary": 2,
-      "th": "หน้าแสดงประวัติการเข้าจอดรถของสมาชิกแบบขยายรายละเอียด",
-      "en": "Page displaying member parking history with expanded details"
-    },
-    "History/3-History-payment หน้าแสดงประวัติการชำระเงิน.png": {
-      "primary": 3,
-      "th": "หน้าแสดงประวัติการชำระเงิน สามารถเลือกช่วงวันที่ และดูใบเสร็จหรือใบกำกับภาษีได้ (ไม่เกิน 4 เดือน)",
-      "en": "Page displaying parking payment history with options to view receipts or tax invoices"
-    },
-    "History/4-History-payment-popup หน้าแสดงตัวเลือกการขอ.png": {
-      "primary": 4,
-      "th": "หน้าแสดงตัวเลือกสำหรับขอใบเสร็จหรือใบกำกับภาษี",
-      "en": "Page displaying options to request a receipt or tax invoice"
-    }
-  },
-  "Invite": {
-    "primary": 7,
-    "name": "เชิญเพื่อน (Invite)",
-    "Invite/1-Invite หน้าแสดงรหัสคำเชิญเพื่อน line.png": {
-      "primary": 1,
-      "th": "หน้าแสดงรหัสคำเชิญเพื่อน line สามารถคัดลอกได้มีทั้งรูปแบบลิงค์และ code และยังมีแสดงจำนวนเพื่อนที่เชิญสำเร็จ (รูปแบบลิงค์)",
-      "en": "Page showing friend invitation code with both link and code, and showing the number of friends invited successfully (link format)"
-    },
-    "Invite/2-Invite หน้าแสดงลิงค์คำเชิญเพื่อน line.png": {
-      "primary": 2,
-      "th": "หน้าแสดงลิงค์คำเชิญเพื่อน line สามารถคัดลอกได้มีทั้งรูปแบบลิงค์และ code และยังมีแสดงจำนวนเพื่อนที่เชิญสำเร็จ (รูปแบบ code)",
-      "en": "Page showing friend invitation link with both link and code, and showing the number of friends invited successfully (code format)"
-    }
-  },
-  "MemberInfo": {
-    "primary": 8,
-    "name": "ข้อมูลสมาชิก (Member Info)",
-    "Member/1-Member แสดงข้อมูลบัตรจอดรถ.png": {
-      "primary": 1,
-      "th": "หน้าแสดงข้อมูลบัตรจอดรถของลูกค้า มีแสดงข้อมูลวันหมดอายุของบัตรจอดรถและรหัสบัตรจอดรถ และยังมีปุ่มสำหรับ QR code สำหรับแสกนบัตรจอดรถและต่ออายุบัตรจอดรถ",
-      "en": "Page showing member card information with expiration date and code, and QR code button for scanning and extending member card"
-    },
-    "Member/2-Member-popup  แสดงQRสำหรับสมาชิกบัตรจอดรถ.png": {
-      "primary": 2,
-      "th": "หน้าแสดง QR code สําหรับแสกนบัตรจอดรถของสมาชิกจะมีแสดง QR code ทะเบียน และวันหมดอายุ",
-      "en": "Page showing QR code for scanning member card with license plate and expiration date"
-    }
-  },
   "ParkingCenter": {
-    "primary": 9,
+    "primary": 4,
     "name": "ศูนย์จอดรถ (Parking Center)",
     "Parking center/1-parking-center หน้าแสดงจุดสำหรับจอดรถและจำนวนที่ว่างอยู่.png": {
       "primary": 1,
@@ -210,154 +121,244 @@
       "en": "Page showing details of parking spaces in different floors, including type and available spaces in each floor of the building"
     }
   },
-  "Payment": {
+  "ActiveMemberCard": {
+    "primary": 5,
+    "name": "บัตรสมาชิก (Member Card)",
+    "Active member card/Active-member-card แสดงรายการบัตรสมาชิก.png": {
+      "primary": 1,
+      "th": "หน้าแสดงรายการบัตรสมาชิกที่มีอยู่ สามารถเปิดหรือปิดการใช้งานบัตรได้ พร้อมปุ่มเพิ่มบัตรสมาชิกใหม่ด้วยรหัส",
+      "en": "Page displaying a list of member cards with activation and deactivation options, and a button to add a new card using a code"
+    },
+    "Active member card/Active-member-card-popup กรอกรหัสบัตรสำหรับเปิดใช้งานแบบโปรโมชั่น.png": {
+      "primary": 2,
+      "th": "ป๊อปอัปสำหรับกรอกรหัสบัตร เพื่อเปิดใช้งานบัตรสมาชิกแบบโปรโมชั่น",
+      "en": "Popup for entering a code to activate a new promotional member card"
+    }
+  },
+  "CheckParking": {
+    "primary": 6,
+    "name": "ตรวจสอบการจอด (Check Parking)",
+    "Check parking/Check-parking หน้าแสดงข้อมูลรถที่จอดอยู่ในตอนนี้.png": {
+      "primary": 1,
+      "th": "หน้าแสดงข้อมูลรถที่กำลังจอดอยู่ในปัจจุบัน พร้อมรายละเอียด เช่น เวลาเข้าจอด ยอดเงินที่ต้องชำระ และปุ่มชำระเงิน",
+      "en": "Page displaying details of currently parked vehicles, including entry time, amount due, and a payment button"
+    }
+  },
+  "DiscountRequest": {
+    "primary": 7,
+    "name": "ขอส่วนลด (Discount Request)",
+    "Discount request/Discount-request-1 หน้าแสดงการขอส่วนลดถ้ามีการซื้อครบตามกำหนด.png": {
+      "primary": 1,
+      "th": "หน้าสำหรับการขอส่วนลดและค่าจอดรถเมื่อมีการซื้อสินค้าหรือทำกิจกรรมครบตามเงื่อนไข (แบบยืนยันการขอส่วนลด ส่วนบน)",
+      "en": "Page for requesting parking discount when purchasing products or completing activities according to conditions (with confirmation top section)"
+    },
+    "Discount request/Discount-request-2 หน้าแสดงการขอส่วนลดถ้ามีการซื้อครบตามกำหนด.png": {
+      "primary": 2,
+      "th": "หน้าสำหรับการขอส่วนลดและค่าจอดรถเมื่อมีการซื้อสินค้าหรือทำกิจกรรมครบตามเงื่อนไข (แบบยืนยันการขอส่วนลด ส่วนล่าง)",
+      "en": "Page for requesting parking discount when purchasing products or completing activities according to conditions (with confirmation bottom section)"
+    }
+  },
+  "History": {
+    "primary": 8,
+    "name": "ประวัติ (History)",
+    "History/History-parking-1  หน้าแสดงประวัติการเข้าจอด.png": {
+      "primary": 1,
+      "th": "หน้าแสดงประวัติการเข้าจอดรถของสมาชิก สามารถเลือกช่วงวันที่ต้องการดูได้ (ไม่เกิน 4 เดือน)",
+      "en": "Page displaying member parking history with date selection up to 4 months"
+    },
+    "History/History-parking-1 หน้าแสดงประวัติการเข้าจอดแบบขยายข้อมูล.png": {
+      "primary": 2,
+      "th": "หน้าแสดงประวัติการเข้าจอดรถของสมาชิกแบบขยายรายละเอียด",
+      "en": "Page displaying member parking history with expanded details"
+    },
+    "History/History-payment หน้าแสดงประวัติการชำระเงิน.png": {
+      "primary": 3,
+      "th": "หน้าแสดงประวัติการชำระเงิน สามารถเลือกช่วงวันที่ และดูใบเสร็จหรือใบกำกับภาษีได้ (ไม่เกิน 4 เดือน)",
+      "en": "Page displaying parking payment history with options to view receipts or tax invoices"
+    },
+    "History/History-payment-popup หน้าแสดงตัวเลือกการขอ.png": {
+      "primary": 4,
+      "th": "หน้าแสดงตัวเลือกสำหรับขอใบเสร็จหรือใบกำกับภาษี",
+      "en": "Page displaying options to request a receipt or tax invoice"
+    }
+  },
+  "Invite": {
+    "primary": 9,
+    "name": "เชิญเพื่อน (Invite)",
+    "Invite/Invite หน้าแสดงรหัสคำเชิญเพื่อน line.png": {
+      "primary": 1,
+      "th": "หน้าแสดงรหัสคำเชิญเพื่อน line สามารถคัดลอกได้มีทั้งรูปแบบลิงค์และ code และยังมีแสดงจำนวนเพื่อนที่เชิญสำเร็จ (รูปแบบลิงค์)",
+      "en": "Page showing friend invitation code with both link and code, and showing the number of friends invited successfully (link format)"
+    },
+    "Invite/Invite หน้าแสดงลิงค์คำเชิญเพื่อน line.png": {
+      "primary": 2,
+      "th": "หน้าแสดงลิงค์คำเชิญเพื่อน line สามารถคัดลอกได้มีทั้งรูปแบบลิงค์และ code และยังมีแสดงจำนวนเพื่อนที่เชิญสำเร็จ (รูปแบบ code)",
+      "en": "Page showing friend invitation link with both link and code, and showing the number of friends invited successfully (code format)"
+    }
+  },
+  "MemberInfo": {
     "primary": 10,
+    "name": "ข้อมูลสมาชิก (Member Info)",
+    "Member/Member แสดงข้อมูลบัตรจอดรถ.png": {
+      "primary": 1,
+      "th": "หน้าแสดงข้อมูลบัตรจอดรถของลูกค้า มีแสดงข้อมูลวันหมดอายุของบัตรจอดรถและรหัสบัตรจอดรถ และยังมีปุ่มสำหรับ QR code สำหรับแสกนบัตรจอดรถและต่ออายุบัตรจอดรถ",
+      "en": "Page showing member card information with expiration date and code, and QR code button for scanning and extending member card"
+    },
+    "Member/Member-popup  แสดงQRสำหรับสมาชิกบัตรจอดรถ.png": {
+      "primary": 2,
+      "th": "หน้าแสดง QR code สําหรับแสกนบัตรจอดรถของสมาชิกจะมีแสดง QR code ทะเบียน และวันหมดอายุ",
+      "en": "Page showing QR code for scanning member card with license plate and expiration date"
+    }
+  },
+
+  "Payment": {
+    "primary": 11,
     "name": "การชำระเงิน (Payment)",
-    "Payment/1-Payment-history หน้าแสดงค่าบริการที่ต้องชำระเงิน.png": {
+    "Payment/Payment-history หน้าแสดงค่าบริการที่ต้องชำระเงิน.png": {
       "primary": 1,
       "th": "หน้าแสดงค่าบริการที่ต้องชำระเงินในตอนนี้ สามารถค้นหาผ่านช่องค้นหาได้",
       "en": "Page showing payment history with search options"
     },
-    "Payment/2-Payment-invoice หน้าแสดงยอดราคาชำระเงิน(จำลอง).png": {
+    "Payment/Payment-invoice หน้าแสดงยอดราคาชำระเงิน(จำลอง).png": {
       "primary": 2,
       "th": "หน้าแสดงรายละเอียดสำหรับการชำระเงินค่าจอดรถ สามารถดูวันเวลาเข้าและออกพร้อมทะเบียนรถ และเลขบัตรใบนั้นได้ พร้อมอัตราค่าบริการและยอดชำระเงิน",
       "en": "Page showing details for parking payment, including entry and exit time, vehicle registration number, and payment amount"
     },
-    "Payment/3-Payment-discount-coupon หน้าแสดงการขอส่วนลด(จำลอง).png": {
+    "Payment/Payment-discount-coupon หน้าแสดงการขอส่วนลด(จำลอง).png": {
       "primary": 3,
       "th": "หน้าแสดงการขอส่วนลด ผ่านการถ่ายรูปใบเสร็จเพื่อแสกนตามเงื่อนไขสิทธิ์ที่กำหนดไว้ โดยใช้ AI ช่วยในการตรวจสอบรูปภาพ",
       "en": "Page for requesting a discount by taking a photo of the receipt and scanning it according to the conditions specified, using AI to help in image recognition"
     },
-    "Payment/4-Payment-discount-coupon หน้าแสดงการขอส่วนลด(จำลอง).png": {
+    "Payment/Payment-discount-coupon-2 หน้าแสดงการขอส่วนลด(จำลอง).png": {
       "primary": 4,
       "th": "หน้าแสดงขอส่วนลดตามคูปอง ผ่านทางการถ่ายรูปคูปองของทาง Cityparking ออกให้ตามโปรโมชั่น โดยอ่าน code บนคูปอง",
       "en": "Page for requesting a discount by taking a photo of the coupon issued by Cityparking according to the promotion, by reading the code on the coupon"
     },
-    "Payment/5-Payment-receipt หน้าแสดงใบเสร็จ.png": {
+    "Payment/Payment-receipt หน้าแสดงใบเสร็จ.png": {
       "primary": 5,
       "th": "หน้าแสดงรายละเอียดใบเสร็จ สำหรับดูข้อมูลการชำระเงิน เช่น ทะเบียนรถ ประเภทรถ ประเภทการชำระ รายการที่ชำระไป และยอดชำระเงิน",
       "en": "Page showing details of the receipt, including vehicle registration, vehicle type, payment type, items paid, and payment amount"
     }
   },
   "Profile": {
-    "primary": 11,
+    "primary": 12,
     "name": "ข้อมูลส่วนตัว (Profile)",
-    "Profile/1-profile หน้าแสดงและแก้ไขข้อมูลส่วนตัว.png": {
+    "Profile/profile หน้าแสดงและแก้ไขข้อมูลส่วนตัว.png": {
       "primary": 1,
       "th": "หน้าแสดงและแก้ไขข้อมูลส่วนตัวของสมาชิกไลน์คนนั้นภายใน Line liff cityparking",
       "en": "Page showing and editing member information within Line liff cityparking"
     },
-    "Profile/2-profile-tax หน้าแสดงข้อมูลใบกำกับภาษี.png": {
+    "Profile/profile-tax หน้าแสดงข้อมูลใบกำกับภาษี.png": {
       "primary": 2,
       "th": "หน้าแสดงข้อมูลใบกำกับภาษีของสมาชิกไลน์คนนั้นภายใน Line liff cityparking",
       "en": "Page showing tax information for a member within Line liff cityparking"
     }
   },
   "RegisterMember": {
-    "primary": 12,
+    "primary": 13,
     "name": "สมัครสมาชิก (Register)",
-    "Register member/1-Option-register-renew หน้าแสดงเลือกทำรายการ.png": {
+    "Register member/Option-register-renew หน้าแสดงเลือกทำรายการ.png": {
       "primary": 1,
       "th": "หน้าแสดงตัวเลือกสำหรับทำรายการสมัครสมาชิกบัตรจอดรถใหม่หรือต่ออายุบัตรจอดรถ",
       "en": "Page showing options for registering or renewing a parking membership"
     },
-    "Register member/2-Register-parking แสดงเลือกสถานที่จอดที่จะสมัครบัตรจอดรถ.png": {
+    "Register member/Register-parking แสดงเลือกสถานที่จอดที่จะสมัครบัตรจอดรถ.png": {
       "primary": 2,
       "th": "หน้าแสดงตัวเลือกสถานที่จอดที่จะสมัครเป็นสมาชิกบัตรจอดรถมีแสดงรายละเอียดสถานที่ตั้งและปุ่มสำหรับดำเนินการ พร้อมมีฟังก์ชั่นค้นหาสถานที่จอดรถ",
       "en": "Page showing options for registering a parking location, with details of the location and buttons for action, and a function for searching for parking locations"
     },
-    "Register member/3-Register-parking-detiail-1 หน้ากรอกข้อมูลสำหรับสมัครบัตรจอดรถ.png": {
+    "Register member/Register-parking-detiail-1 หน้ากรอกข้อมูลสำหรับสมัครบัตรจอดรถ.png": {
       "primary": 3,
       "th": "หน้าแสดงกรอกข้อมูลสำหรับสมัครสมาชิกบัตรจอดรถ ของสถานที่นั้นๆ มีให้เลือกแพ็คเก็จที่ต้องการชำระ และประเภทรถ(ส่วนบน)",
       "en": "Page showing input fields for registering a parking membership at a specific location, with options for selecting the payment package and vehicle type (top section)"
     },
-    "Register member/4-Register-parking-detiail-2 หน้าแสดงรายละเอียดสมัครบัตรจอดรถ.png": {
+    "Register member/Register-parking-detiail-2 หน้าแสดงรายละเอียดสมัครบัตรจอดรถ.png": {
       "primary": 4,
       "th": "หน้ากรอกข้อมูลสำหรับสมัครสมาชิกบัตรจอดรถ ของสถานที่นั้นๆ มีให้เลือกทะเบียนรถของสมาชิก ถ้ามี และปุ่มขอใบกำกับภาษี พร้อมปุ่มสำหรับดำเนินการ(ส่วนล่าง)",
       "en": "Page input fields for registering a parking membership at a specific location, with options for selecting the member's vehicle registration if applicable, and action buttons (bottom section)"
     },
-    "Register member/5-Register-parking-detiail-3 หน้ากรอกข้อมูลสำหรับออกภาษี.png": {
+    "Register member/Register-parking-detiail-3 หน้ากรอกข้อมูลสำหรับออกภาษี.png": {
       "primary": 5,
       "th": "หน้ากรอกข้อมูลสำหรับออกภาษี สมาชิกบัตรจอดรถ มีกรอกที่อยู่และเลขภาษีต่างๆ",
       "en": "Page input fields for registering a parking membership with tax information, including address and other tax information"
     }
   },
   "Renew": {
-    "primary": 13,
+    "primary": 14,
     "name": "ต่ออายุ (Renew)",
-    "Renew/1-Renew-popup สำหรับแจ้งเเตือนขอภาษี.png": {
+    "Renew/Renew-popup สำหรับแจ้งเเตือนขอภาษี.png": {
       "primary": 1,
       "th": "หน้าแสดงตัวเลือกสำหรับการขอภาษีก่อนทำรายการต่ออายุ (สามารถเปลี่ยนข้างในได้อีกที)",
       "en": "Page showing options for requesting tax before renewing (can be changed later)"
     },
-    "Renew/2-Renew-1 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ.png": {
+    "Renew/Renew-1 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ.png": {
       "primary": 2,
       "th": "หน้าแสดงข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ จะทำการดึงข้อมูลจากสมาชิกไลน์คนนั้นจากสถานที่นั้นมาใส่ในช่องกรอกอัตโนมัติ และสามารถแก้ไขได้บางส่วน จะเป็นหน้าเดียวกันกับตอนสมัครสมาชิกบัตรจอดรถ (ส่วนบน)",
       "en": "Page showing information for renewing a parking membership, with data automatically pulled from the member's line from the same location, and it will be the same page as the registration page (top)"
     },
-    "Renew/3-Renew-2 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ.png": {
+    "Renew/Renew-2 หน้าการกรอกข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ.png": {
       "primary": 3,
       "th": "หน้าแสดงข้อมูลสำหรับต่ออายุสมาชิกบัตรจอดรถ จะทำการดึงข้อมูลจากสมาชิกไลน์คนนั้นจากสถานที่นั้นมาใส่ในช่องกรอกอัตโนมัติ และสามารถแก้ไขได้บางส่วน จะเป็นหน้าเดียวกันกับตอนสมัครสมาชิกบัตรจอดรถ (ส่วนล่าง)",
       "en": "Page showing information for renewing a parking membership, with data automatically pulled from the member's line from the same location, and it will be the same page as the registration page (bottom)"
     }
   },
   "Setting": {
-    "primary": 14,
+    "primary": 15,
     "name": "ตั้งค่า (Setting)",
-    "Setting/1-Setting หน้าตั้งค่าข้อมูล.png": {
+    "Setting/Setting หน้าตั้งค่าข้อมูล.png": {
       "primary": 1,
       "th": "หน้าตั้งพื้นฐานของสมาชิกไลน์คนนั้นภายใน Line liff cityparking เช่น แจ้งเตือนต่างๆ เปลี่ยนภาษา",
       "en": "Page showing basic settings for a member within Line liff cityparking, such as notifications and language changes"
     }
   },
   "TopUp": {
-    "primary": 15,
+    "primary": 16,
     "name": "เติมเงิน (Top Up)",
-    "Top up/1-top-up หน้าเติมเงินเข้ากระเป๋าตังค์ของ cityparking.png": {
+    "Top up/top-up หน้าเติมเงินเข้ากระเป๋าตังค์ของ cityparking.png": {
       "primary": 1,
       "th": "หน้ากรอกข้อมูลสำหรับเติมเงินเข้ากระเป๋าตังค์ของ cityparking มีให้เลือกประเภทการชำระเงิน จำนวนเงิน พร้อมแสดงชื่อผู้ชำระเงินต่างๆ แถมแสดงยอดเงินในกระเป๋าตังค์ปัจจุบัน (ส่วนบน)",
       "en": "Page input fields for top-up of cityparking wallet, with options for payment type, amount, and showing other payers, as well as showing the amount in the wallet current (top)"
     },
-    "Top up/2-top-up-2 หน้าเติมเงินเข้ากระเป๋าตังค์ปุ่มชำระเงินcityparking.png": {
+    "Top up/top-up-2 หน้าเติมเงินเข้ากระเป๋าตังค์ปุ่มชำระเงินcityparking.png": {
       "primary": 2,
       "th": "หน้ากรอกข้อมูลสำหรับเติมเงินเข้ากระเป๋าตังค์ของ cityparking มีให้เลือกประเภทการชำระเงิน จำนวนเงิน พร้อมแสดงชื่อผู้ชำระเงินต่างๆ แถมแสดงยอดเงินในกระเป๋าตังค์ปัจจุบัน (ส่วนล่าง)",
       "en": "Page input fields for top-up of cityparking wallet, with options for payment type, amount, and showing other payers, as well as showing the amount in the wallet current (bottom)"
     },
-    "Top up/3-top-up-3 popupสำหรับแจ้งเตือก่อนยืนยันการชำะรเงิน.png": {
+    "Top up/top-up-3 popupสำหรับแจ้งเตือก่อนยืนยันการชำะรเงิน.png": {
       "primary": 3,
       "th": "หน้าแสดงตัวยืนยันอีกครั้งสำหรับการชำระเงินก่อนทำการชำระเงินจริง",
       "en": "Page showing a second confirmation before making a real payment"
     },
-    "Top up/4-top-up-history หน้าแสดงประวัติการชำะรเงิน.png": {
+    "Top up/top-up-history หน้าแสดงประวัติการชำะรเงิน.png": {
       "primary": 4,
       "th": "หน้าแสดงประวัติการชำระเงินสําหรับกระเป๋าตังค์ของ cityparking (ย้อนหลังแค่ 30 วัน)",
       "en": "Page showing payment history for cityparking wallet (within the last 30 days)"
     }
   },
   "VehicleOption": {
-    "primary": 16,
+    "primary": 17,
     "name": "จัดการรถ (Vehicle)",
-    "Vehicle option/1-Vehicle-option-1 แสดงข้อมูลรถที่มีการลงข้อมูล(แก้ไข).png": {
+    "Vehicle option/Vehicle-option-1 แสดงข้อมูลรถที่มีการลงข้อมูล(แก้ไข).png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลทะเบียนรถที่มีการลงทะเบียนไว้ของไลน์คนนั้นและสามารถแก้ไขได้เสมอ และลบได้ (แก้ไข)",
       "en": "Page showing vehicle registration data for a member within Line liff cityparking and allowing editing and deletion"
     },
-    "Vehicle option/2-Vehicle-option-2 แสดงข้อมูลรถที่มีการลงข้อมูล(ลบ).png": {
+    "Vehicle option/Vehicle-option-2 แสดงข้อมูลรถที่มีการลงข้อมูล(ลบ).png": {
       "primary": 2,
       "th": "หน้าแสดงข้อมูลทะเบียนรถที่มีการลงทะเบียนไว้ของไลน์คนนั้นและสามารถแก้ไขได้เสมอ และลบได้ (ลบ)",
       "en": "Page showing vehicle registration data for a member within Line liff cityparking and allowing editing and deletion"
     },
-    "Vehicle option/3-Vehicle-option-3 แสดงการยืนยันแก้ไขทะเบียน.png": {
+    "Vehicle option/Vehicle-option-3 แสดงการยืนยันแก้ไขทะเบียน.png": {
       "primary": 3,
       "th": "หน้าแสดงการยืนยันการแก้ไขข้อมูลทะเบียนรถ และ ลบข้อมูลทะเบียนรถ",
       "en": "Page showing confirmation for editing and deleting vehicle registration data"
     },
-    "Vehicle option/4-Vehicle-create หน้าการสร้างข้อมูลรถสำหรับบันทึกข้อมูลรถ.png": {
+    "Vehicle option/Vehicle-create หน้าการสร้างข้อมูลรถสำหรับบันทึกข้อมูลรถ.png": {
       "primary": 4,
       "th": "หน้าตัวกรอกข้อมูลรถสําหรับบันทึกข้อมูลทะเบียนรถของไลน์คนนั้น",
       "en": "Page showing input fields for creating vehicle registration data for a member within Line liff cityparking"
     },
-    "Vehicle option/5-Vehicle-edit หน้าการแก้ข้อมูลทะเบียนที่มีอยู่.png": {
+    "Vehicle option/Vehicle-edit หน้าการแก้ข้อมูลทะเบียนที่มีอยู่.png": {
       "primary": 5,
       "th": "หน้าแสดงการแก้ไขข้อมูลทะเบียนรถของไลน์คนนั้น จะเป็นการดึงข้อมูลจากการกดแก้ไขมาอัตโนมัติ",
       "en": "Page showing vehicle registration data for a member within Line liff cityparking and allowing editing and deletion"
