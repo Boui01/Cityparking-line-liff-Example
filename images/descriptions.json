@@ -72,53 +72,83 @@
       "en": "Page displaying EV charging history within the last 30 days"
     }
   },
-  "ParkingCenter": {
-    "primary": 4,
-    "name": "ศูนย์จอดรถ (Parking Center)",
-    "Parking center/1-parking-center หน้าแสดงจุดสำหรับจอดรถและจำนวนที่ว่างอยู่.png": {
+  "Parking center":{
+    "primary": 3,
+    "name": "ค้นหาสถานที่จอดรถ (Parking Center)",
+    "Parking center/parking-center หน้าแสดงจุดตำแหน่งปัจจุบันของผู้ค้นหา.png": {
       "primary": 1,
-      "th": "หน้าแสดงบัตรจอดรถของ Cityparking ทั้งหมดหน้านี้จะมีฟังก์ชั่นการกรองระยะจุดปัจจุบันของผู้ค้นหากับจุดใกล้เคียงตามระยะที่ผู้ค้นหากำหนด พร้อมกดแสดงเฉพาะที่จอดที่มี EV charger และยังมีแสดงจํานวนที่ว่างอยู่พร้อมกรองสีตามจำนวนที่จอดว่างอยู่",
-      "en": "Page showing all parking centers of Cityparking with filtering options based on current location, showing EV charging stations, and showing the number of available spaces with color filtering"
+      "th": "หน้าแสดงจุดตำแหน่งปัจจุบันของผู้ค้นหา พร้อมแสดงจุดที่จอดรถทั้งหมดของ Cityparking บนแผนที่",
+      "en": "Page showing the current location of the searcher along with all Cityparking parking centers on the map"
     },
-    "Parking center/2-parking-center แสดงคำแนะนำสีแต่ล่ะประเภทคืออะไร.png": {
+    "Parking center/parking-center หน้าแสดงคู่มือสำหรับการดูสีที่จอดรถเพื่อบอกจำนวนที่ว่าง.png": {
       "primary": 2,
-      "th": "หน้าแสดงคำแนะนำสีแต่ล่ะประเภทคืออะไร สำหรับช่วยเหลือผู้ใช้ใหม่",
-      "en": "Page showing color recommendations for different parking types to help new users"
+      "th": "หน้าแสดงคู่มือสำหรับการดูสีที่จอดรถเพื่อบอกจำนวนที่ว่าง สำหรับช่วยเหลือผู้ใช้ใหม่ในการใช้งานแผนที่ โดยจะมีแสดงคำอธิบายของสีแต่ล่ะสี คือ red : ที่จอดเต็ม , green : ที่จอดว่าง , yellow : ที่จอดเหลือน้อย",
+      "en": "Page showing a guide for interpreting parking center colors to indicate available spaces, helping new users navigate the map"
     },
-    "Parking center/3-parking-center แสดงตัวเลือกจำแนกตามสี.png": {
+    "Parking center/parking-center หน้าแสดงแถบตัวเลือกสีสำหรับแสดงจุดจอดรถตามสี.png": {
       "primary": 3,
-      "th": "หน้าแสดงตัวเลือกจำแนกตามสี สามารถกดเพื่อกรองจุดจอดตามสีที่กดไว้",
-      "en": "Page showing color options to filter parking centers based on selected color"
+      "th": "หน้าแสดงแถบตัวเลือกสีสำหรับแสดงจุดจอดรถตามสีที่กดเลือกไว้ สามารถกดเพื่อกรองจุดจอดตามสีที่กดไว้ โดยจะแยกเป็น 3 สี คือ red , green , yellow ตามจำนวนที่จอดว่างอยู่",
+      "en": "Page showing color options to filter parking centers based on selected color, with 3 colors: red, green, and yellow, indicating the number of available spaces"
     },
-    "Parking center/4-parking-center หน้าแสดงบัตรจอดรถตามระยะที่กำหนดเอง.png": {
+    "Parking center/parking-center หน้าแสดงการกดตัวเลือกสีสำหรับแสดงจุดจอดรถตามสีเหลือง.png": {
       "primary": 4,
-      "th": "หน้าแสดงบัตรจอดรถตามระยะที่กำหนดเอง สำหรับกรองตำแหน่งใกล้เคียงตามระยะที่ผู้ค้นหากำหนดเอง",
-      "en": "Page showing parking centers based on custom distance with filtering options"
+      "th": "หน้าแสดงการกดตัวเลือกแถบสีสำหรับแสดงจุดจอดรถตามสีเหลือง ที่แสดงจุดจอดที่เป็นสีเหลืองโดยจะแสดงจุดจอดที่มีจำนวนที่จอดรถเหลือน้อยกว่า 10 ช่องจอดขึ้นไป",
+      "en": "Page showing the selection of yellow color option to display parking centers with less than 10 available spaces"
     },
-    "Parking center/5-parking-center-search หน้าแสดงบัตรจอดรถแบบกดค้นหา.png": {
+    "Parking center/parking-center หน้าแสดงการกดเปิดตัวกรองค้นหาที่จอดรถ.png" : {
       "primary": 5,
-      "th": "หน้าแสดงบัตรจอดรถแบบกดค้นหา มีข้อมูลบัตรจอดรถแบบกำหนดไว้เมื่อกดจะเลื่อนแผนที่ไปยังบัตรจอดรถนั้นๆ",
-      "en": "Page showing parking centers based on custom distance"
+      "th": "หน้าแสดงการกดเปิดตัวกรองค้นหาที่จอดรถ โดยสามารถกรองตามระยะจากจุดปัจจุบันของผู้ค้นหา และยังมีตัวเลือกสำหรับแสดงเฉพาะที่จอดที่มี EV charger ได้",
+      "en": "Page showing the activation of parking center filters, allowing filtering by distance from current location and option to show only parking centers with EV chargers"
     },
-    "Parking center/6-parking-center-popup แสดงรายละเอียดที่จอดรถ.png": {
+    "Parking center/parking-center หน้าแสดงการกดตัวกรองค้นหาที่จอดรถใกล้เคียง10km.png": {
       "primary": 6,
-      "th": "หน้าแสดงรายละเอียดของบัตรจอดรถ สำหรับดูรายละเอียดเพิ่มเติมของบัตรจอดรถ เช่น จำนวนที่จอดรถแต่ล่ะตึก จำนวนที่จอดรถแต่ล่ะประเภท รูปภาพที่จอดรถ พร้อมปุ่มกดเพื่อ ดูรายละเอียด เพื่อขยายข้อมูลในแต่ล่ะตึกได้",
-      "en": "Page showing details of a parking center, including type and available spaces, images, and a button to view more details"
+      "th": "หน้าแสดงการกดกรอง ที่จอดรถในระยะใกล้เคียง 10 km โดยจะแสดงป๊อปอัพแจ้งเตือนว่ามีที่จอดรถในระยะใกล้เคียงทั้งหมดกี่แห่ง (ตัวอย่างแสดงว่าไม่พบที่จอดรถในระยะใกล้เคียง)",
+      "en": "Page showing the selection of 10 km distance filter for parking centers, with a popup notification displaying the number of nearby parking centers (found none in this example)"
     },
-    "Parking center/7-parking-center-popup แสดงคำแนะนำสำหรับวิธีการดูต่างๆ.png": {
+    "Parking center/parking-center หน้าแสดงการกดตัวกรองค้นหาที่จอดรถแบบกำหนดเอง.png": {
       "primary": 7,
-      "th": "หน้าแสดงคำแนะนำสำหรับวิธีการดูสัญญาลักษณ์ต่างๆในการดูข้อมูลที่จอดรถแบบละเอียด สำหรับช่วยเหลือผู้ใช้ใหม่",
-      "en": "Page showing color recommendations for different parking types to help new users"
+      "th": "หน้าแสดงการกดตัวกรองค้นหาที่จอดรถแบบกำหนดเอง โดยสามารถกรอกระยะที่ต้องการค้นหาได้เอง พร้อมปุ่มยืนยันการกรอง",
+      "en": "Page showing the selection of custom distance filter for parking centers, allowing users to input their desired search distance with a confirmation button"
     },
-    "Parking center/8-parking-center-popup แสดงรูปภาพแบบขยายจากคลิกรูป.png": {
+    "Parking center/parking-center หน้าแสดงการกดตัวกรองค้นหาที่จอดรถที่มี EV charger.png": {
       "primary": 8,
-      "th": "หน้าแสดงรูปภาพแบบขยายจากกดที่ขยายรูปภาพ สามารถกดปุ่ม X เพื่อปิดได้",
-      "en": "Page showing expanded images by clicking on the expand button, and the X button can be used to close the expanded image"
+      "th": "หน้าแสดงการกดตัวกรองค้นหาที่จอดรถที่มี EV charger โดยจะแสดงป๊อปอัพแจ้งเตือนว่ามีที่จอดรถที่มี EV charger ทั้งหมดกี่แห่ง (ตัวอย่างแสดงว่าไม่พบที่จอดรถที่มี EV charger)",
+      "en": "Page showing the selection of EV charger filter for parking centers, with a popup notification displaying the number of parking centers with EV chargers (found none in this example)"
     },
-    "Parking center/9-parking-center-detail-popup แสดงรายละเอียดช่องจอดแต่ล่ะชั้น.png": {
+    "Parking center/parking-center หน้าค้นหาที่จอดรถที่มีอยู่.png": {
       "primary": 9,
-      "th": "หน้าแสดงรายละเอียดของช่องจอดในแต่ล่ะชั้น พร้อมแบ่งประเภทช่องจอดและจํานวนที่ว่างอยู่ในแต่ล่ะชั้นของตึกนั้นๆ",
-      "en": "Page showing details of parking spaces in different floors, including type and available spaces in each floor of the building"
+      "th": "หน้าค้นหาที่จอดรถที่มีอยู่ผ่านช่องค้นหา โดยสามารถกรอกชื่อสถานที่จอดรถที่ต้องการค้นหาได้ และสามารถกดคลิกสถานที่จอดรถเพื่อนำแมพไปแสดงสถานที่จอดรถที่เลือกค้นหาอันนั้นได้",
+      "en": "Page showing the search for existing parking centers through a search bar, allowing users to input the desired parking location name and click on a parking center to display it on the map"
+    },
+    "Parking center/parking-center หน้าค้นหาที่จอดรถที่มี EV charger.png": {
+      "primary": 10,
+      "th": "หน้าค้นหาที่จอดรถที่มี EV charger ผ่านช่องค้นหา โดยสามารถกรอกชื่อสถานที่จอดรถที่ต้องการค้นหาได้ และสามารถกดคลิกสถานที่จอดรถเพื่อนำแมพไปแสดงสถานที่จอดรถที่เลือกค้นหาอันนั้นได้",
+      "en": "Page showing the search for parking centers with EV chargers through a search bar, allowing users to input the desired parking location name and click on a parking center to display it on the map"
+    },
+    "Parking center/parking-center หน้าแสดงสถานที่เมื่อกดสถานที่ในหน้าค้นหา.png": {
+      "primary": 11,
+      "th": "หน้าแสดงสถานที่จอดรถเมื่อกดสถานที่ในหน้าค้นหา จะทำการเลื่อนแผนที่ไปยังสถานที่จอดรถที่เลือก",
+      "en": "Page showing the details of the selected parking location when clicking on the location in the search page"
+    },
+    "Parking center/parking-center หน้าปิดตัวข้างล่างสำหรับดูแผนที่ให้สะดวกขึ้น.png": {
+      "primary": 12,
+      "th": "หน้าแสดงการปิดตัวข้างล่างสำหรับดูแผนที่ให้สะดวกขึ้น โดยสามารถกดปุ่มลูกศรขึ้นเพื่อเปิดตัวข้างล่างขึ้นมาใหม่ได้",
+      "en": "Page showing the closing of the bottom sheet for easy access to the map, allowing users to click the upward arrow button to open the bottom sheet again"
+    },
+    "Parking center/parking-center หน้าแสดงรายละเอียดจำนวนช่องจอดของสถานที่.png": {
+      "primary": 13,
+      "th": "หน้าแสดงรายละเอียดจำนวนช่องจอดรวมแต่ล่ะตึกของสถานที่จอดรถนั้นและเมื่อกดปุ่มแสดงจะโชว์รายละเอียดช่องจอดภายในตึกนั้นขึ้นมา แถมยังมีปุ่มทางลัดสำหรับกดสมัครสมาชิกลิงค์เข้าหน้าสมัครสมาชิกบัตรจอดรถได้และปุ่มกดนำทางไปยังสถานที่จอดรถนั้นบน Google map",
+      "en": "Page showing details of total parking spaces in each building of the parking location, with a button to show detailed parking spaces within the building, and shortcut buttons for registering a parking membership and navigating to the parking location on Google Maps"
+    },
+    "Parking center/parking-center หน้าแสดงรูปภาพสถานที่แบบกดขยายรูปภาพ.png": {
+      "primary": 14,
+      "th": "หน้าแสดงรูปภาพสถานที่แบบกดขยายรูปภาพ สำหรับแสดงรูปภาพของสถานที่จอดรถที่เลือก",
+      "en": "Page showing expandable images of the selected parking location to display the image of the parking location"
+    },
+    "Parking center/parking-center หน้าแสดงรายละเอียดจำนวนช่องจอดของตึก.png": {
+      "primary": 15,
+      "th": "หน้าแสดงรายละเอียดจำนวนช่องจอดรวมแต่ล่ะชั้นและรูปภาพของตึกที่กดเข้ามาดู พร้อมแบ่งประเภทช่องจอดและจํานวนที่ว่างอยู่ในแต่ล่ะชั้นของตึกนั้นๆ",
+      "en": "Page showing details of total parking spaces in each floor and image of the building that was clicked to view, with parking space types and the number of available spaces in each floor"
     }
   },
   "ActiveMemberCard": {
@@ -210,7 +240,6 @@
       "en": "Page showing QR code for scanning member card with license plate and expiration date"
     }
   },
-
   "Payment": {
     "primary": 11,
     "name": "การชำระเงิน (Payment)",
